@@ -1,7 +1,13 @@
-# Google Clone
+# Google Clone | [Live Demo](https://google-eight-self.vercel.app/)
 
-Search Engine App using: Next JS, Tailwind CSS, Google API, Firebase, & Vercel
+Search Engine App using:
 
-![Google Large Gif](https://media.giphy.com/media/8vhOh2gqvtkTtxzG8Z/giphy.gif)
+- Next JS
+- Tailwind CSS
+- Google API
+- Firebase
+- Vercel
 
-## [Live Demo](https://google-eight-self.vercel.app/)
+![Google Large Gif](GoogleGif.gif)
+
+<!-- ## [Live Demo](https://google-eight-self.vercel.app/) -->
