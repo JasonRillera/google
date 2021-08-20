@@ -1,4 +1,4 @@
-# Google Clone | [Live Demo](https://google-eight-self.vercel.app/)
+# Google Clone
 
 This Google inspired website is a search engine app. It was build with Next JS Framework, utilizes the Google Search API, and the design has been made mobile responsive through the use of Tailwind CSS.
 
